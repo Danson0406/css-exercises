@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+
+.num1, .num3, .num5 {
+    background-color: rgb(225, 154, 154);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.num3 {
+    font-size: x-large;
+}
+
+
+#two {
+    font-size: xx-large;
+    color: blue;
+}
+
+#four {
+    font-weight: bold;
+    background-color: rgb(111, 235, 111);
+    font-size: larger;
+}
+
